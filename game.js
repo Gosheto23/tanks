@@ -8,7 +8,7 @@ function update() {
 
 function draw() {
     // This is how you draw a rectangle
-    context.fillRect(myX, myY, 30, 30);
+    context.fillRect(myX, myY, 50, 30);
 };
 
 function keyup(key) {

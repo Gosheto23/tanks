@@ -1,4 +1,5 @@
-﻿// Creating variables
+﻿//ha ha
+// Creating variables
 var myX = 0, myY = 0;
 
 function update() {
